@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3132
+
+Underwater-mod is a tweak of a favorite theme, Underwater [1]. Colors for NERDTree, Ruby, ERB, HAML and HTML elements were assigned. Tweaks to general colors, like vertical split, give Vim a simpler appearance.  See screenshot [2] which uses Consolas font.
+
+The MacVim downloadable from [3] does not render accurate colors. To see the difference, compare your MacVim using this theme against my screenshot. Subtle themes like Zenburn look really washed out. The fix is to compile MacVim [4], or better yet install with the excellent Homebrew package manager [5]. 
+
+[1] http://www.vim.org/scripts/script.php?script_id=2977
+[2] http://img193.imageshack.us/img193/8104/screenshot20100623at319.png
+[3] http://code.google.com/p/macvim/
+[4] http://code.google.com/p/macvim/wiki/Building
+[5] http://mxcl.github.com/homebrew/
